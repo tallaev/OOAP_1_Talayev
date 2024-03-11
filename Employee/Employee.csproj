@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web" ToolsVersion="Current">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>D:\Проекты VS\ООАП_1\ILYA-master\Backup\Employee\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MudBlazor" Version="6.*" />
+  </ItemGroup>
+</Project>
